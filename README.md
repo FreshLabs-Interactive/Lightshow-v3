@@ -6,7 +6,7 @@ Lightshow is an Xbox 360 app for the Ring of Light (ROL) and the center power LE
 
 Credit to landaire for [smc.h](https://github.com/landaire/LaunchCode/blob/master/LaunchCode/smc.h) and [smc.cpp](https://github.com/landaire/LaunchCode/blob/master/LaunchCode/smc.cpp), to free60.org for the SMC reference, and to Xenomega for the [plugin/symlink code](https://github.com/Xenomega/ArchLoader/tree/master).
 
-<img src="https://consolemods.org/wiki/images/5/58/Lightshow_Picture.png" width="49%" height="auto">
+<img src="tools/newUI.png" width="49%" height="auto">
 
 ## What's new in v3
 
